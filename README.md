@@ -4,13 +4,13 @@
   <strong>Full-Stack Developer | WordPress & Web Solutions Expert | ALX Software Engineering Learner</strong>
 </p>
 
----
+
 
 ## 🌟 About Me
 
 I am a Full-Stack Software Developer in training through the ALX program, with strong expertise in WordPress and front-end/back-end web development. I’m passionate about creating websites and digital solutions that help businesses and communities thrive. My vision is to deliver impactful, scalable, and user-friendly web solutions while continuously growing as a developer.
 
----
+
 
 ## 🛠 Skills & Expertise
 
@@ -18,7 +18,7 @@ I am a Full-Stack Software Developer in training through the ALX program, with s
 - **Secondary Domains:** HTML/CSS, React, Node.js, SQL, REST APIs  
 - **Tools & Technologies:** VS Code, Git & GitHub, Elementor, WooCommerce, Tailwind CSS, Figma
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -47,13 +47,13 @@ I am a Full-Stack Software Developer in training through the ALX program, with s
 - Jinja by Kari-Beau – Café concept website for morning & lunch services.  
 - Kozahoo Event Platform – Custom WordPress events website.  
 
----
+
 
 ## 💡 Open Source & Learning
 
 I actively contribute to open-source projects, collaborate with developers, and continuously improve my full-stack development skills. I also document my learning journey to reflect growth in front-end, back-end, and WordPress development.
 
----
+
 
 ## 📫 Contact Me
 
@@ -61,6 +61,6 @@ I actively contribute to open-source projects, collaborate with developers, and 
 - LinkedIn: <a href="https://www.linkedin.com/in/dylanintore">DylanIntore</a>  
 - Portfolio: <a href="https://spidawebb.com">spidawebb.com</a>  
 
----
+
 
 <p align="center">Thanks for visiting my GitHub! Let’s build amazing digital solutions together. 🚀</p>
