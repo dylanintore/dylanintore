@@ -58,7 +58,7 @@ I actively contribute to open-source projects, collaborate with developers, and 
 ## 📫 Contact Me
 
 - Email: <a href="mailto:dylan@spidawebb.com">info@spida.com</a>  
-- LinkedIn: <a href="https://www.linkedin.com/in/dylanintore">DylanIntore</a>  
+- LinkedIn: <a href="[https://rw.linkedin.com/in/intore]">Intore</a>  
 - Portfolio: <a href="https://spidawebb.com">spidawebb.com</a>  
 
 
